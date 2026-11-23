@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e408f748.css",
+    "main.js": "/static/js/main.06ba8f09.js",
+    "static/js/453.e575156f.chunk.js": "/static/js/453.e575156f.chunk.js",
+    "static/media/image-2.jpg": "/static/media/image-2.48d311b43886354112d1.jpg",
+    "static/media/image-1.jpg": "/static/media/image-1.b67d490f42cfdf08f5e3.jpg",
+    "static/media/image-3.jpg": "/static/media/image-3.31884b9cb6b03ade9a2c.jpg",
+    "static/media/product-1.jpg": "/static/media/product-1.066e270ebd5e31497cda.jpg",
+    "static/media/product-2.jpg": "/static/media/product-2.066e270ebd5e31497cda.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.066e270ebd5e31497cda.jpg",
+    "static/media/product-4.jpg": "/static/media/product-4.066e270ebd5e31497cda.jpg",
+    "static/media/product-5.jpg": "/static/media/product-5.066e270ebd5e31497cda.jpg",
+    "static/media/product-6.jpg": "/static/media/product-6.066e270ebd5e31497cda.jpg",
+    "static/media/logo.png": "/static/media/logo.6bbf18249956bece25be.png",
+    "static/media/img-2.jpg": "/static/media/img-2.a49ec37a72253e735c8f.jpg",
+    "static/media/whychoose.jpg": "/static/media/whychoose.d3608ee5c611a52b6831.jpg",
+    "static/media/aboutus.jpg": "/static/media/aboutus.3f1f84f948819c33be07.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.bb583fb01672f2ba11e9.jpg",
+    "static/media/10.png": "/static/media/10.09992c7eba44be37f21f.png",
+    "static/media/7.png": "/static/media/7.f792d1d3aa688524a430.png",
+    "static/media/1.png": "/static/media/1.60f360ec064571699dc0.png",
+    "static/media/9.png": "/static/media/9.73596899ab1c6fe00a2d.png",
+    "static/media/4.png": "/static/media/4.e23230336961134e8573.png",
+    "static/media/6.png": "/static/media/6.81003246af99990d74d2.png",
+    "static/media/8.png": "/static/media/8.da6d078c0d0869e0e1fe.png",
+    "static/media/3.png": "/static/media/3.0cd65e02bfab180d455e.png",
+    "static/media/5.png": "/static/media/5.891569232691c8086137.png",
+    "static/media/2.png": "/static/media/2.3c1a99ffd36b1f632a3e.png",
+    "index.html": "/index.html",
+    "main.e408f748.css.map": "/static/css/main.e408f748.css.map",
+    "main.06ba8f09.js.map": "/static/js/main.06ba8f09.js.map",
+    "453.e575156f.chunk.js.map": "/static/js/453.e575156f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e408f748.css",
+    "static/js/main.06ba8f09.js"
+  ]
+}
